@@ -1,0 +1,373 @@
+#EXTM3U
+
+#EXTINF:-1 ,Telefe
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?
+
+sd=10&rebase=on&hdntl=exp=1622234188~acl=%2fi
+
+%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=f43d6b064999c8fdc63c3d654e2d7f7e7eafcd07a
+
+e68f7c0dc703946fe9156cf
+
+#EXTINF:-1 ,Canal 9
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?
+
+iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMjM0NTk3LCJzZXNzaW9uIjoiMTY4LjEyMS41OC4xIiwid2hpdGVsaXN
+
+0IjpbIjE2OC4xMjEuNTguMTQiXX0sInNpZ25hdHVyZSI6ImZlZmEwNWRiMTY1MTBhYjAwYjQzNThmNTFhMDEzYj
+
+ljYmQxM2M5YTkifQ%3D%3D
+
+#EXTINF:-1 ,Net tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:-1 ,Canal 26
+https://live-
+
+edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w517573253_b1864000_sleng.m3u8
+
+#EXTINF:-1 ,A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/c144be87-8957
+
+-4943-aceb-
+
+e86a01ba0ac5:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+
+#EXTINF:-1 ,Tec TV
+https://g2.proy-hor.transport.edge-access.net/b06/ngrp:gcba_video3-
+
+100042_all/gcba_video3-100042_128Kp.m3u8
+
+#EXTINF:-1 ,Canal 13 la Rioja
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w767579425.m3u8
+
+#EXTINF:-1 ,Canal 13 Mar Del Plata
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/index_1_av-p.m3u8?
+
+sd=10&rebase=on&hdntl=exp=1622236236~acl=%2fi
+
+%2fmdqdistri02_1%40829747%2f*~data=hdntl~hmac=5b8cc7dfef7a0513c018dba28c34ab3b203d10164
+
+983b5b2869498637eb45247
+
+#EXTINF:-1 ,Canal 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w3
+
+45805834_b868352.m3u8
+
+#EXTINF:-1 ,Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/chunklist_w141629294.m3u8
+
+#EXTINF:-1 ,Canal 9 Multivision
+https://panel.dattalive.com/8250/8250/chunklist_w569504165.m3u8
+
+#EXTINF:-1 ,Telefe Neuquen
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/index_1_av-p.m3u8?
+
+sd=10&rebase=on&hdntl=exp=1622236534~acl=%2fi
+
+%2fcanal7neuquen_1%40751158%2f*~data=hdntl~hmac=8023946c7ccc5e5f858cbd9502756864deaf2d3
+
+dafb30e88de76b031b7c2686e
+
+#EXTINF:-1 ,Telefe Tucuman
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/index_1_av-p.m3u8?
+
+sd=10&rebase=on&hdntl=exp=1622236663~acl=%2fi
+
+%2fcanal8tucuman_1%40787002%2f*~data=hdntl~hmac=b3af99e2dbe997b836ec69885516855879f26ed
+
+97e35843e391501ac7f2ca33a
+
+#EXTINF:-1 ,9 LINK REP 13
+http://www.coninfo.net:1935/9linklive/live/chunklist_w606028025.m3u8
+
+#EXTINF:-1 ,Telefe Sta FE
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/index_1_av-p.m3u8?
+
+sd=10&rebase=on&hdntl=exp=1622237026~acl=%2fi
+
+%2fcanal13santafe_1%40751190%2f*~data=hdntl~hmac=8b8a532aac4820b01e9316b2c30b256fbf4844
+
+73f3b8c6ae0a94b592e824342b
+
+#EXTINF:-1 ,Canal 5 de Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1784207096.m3u8
+
+#EXTINF:-1 ,America Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8
+
+#EXTINF:-1 ,Canal 2 Perico
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
+
+#EXTINF:-1 ,El 10 TV SALTA
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
+
+#EXTINF:-1 ,Canal 7 de Salta
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w620845855.m3u8
+
+#EXTINF:-1 ,CM Canal de la Musica
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-
+
+100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 ,Canal 3 De La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w13867
+
+36149_b796608.m3u8
+
+#EXTINF:-1 ,Canal 9
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?
+
+iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMjM4MDMwLCJzZXNzaW9uIjoiMTY4LjEyMS41OC4xIiwid2hpdGVsaXN
+
+0IjpbIjE2OC4xMjEuNTguMTQiXX0sInNpZ25hdHVyZSI6IjhjOGZjYjY4NjdiM2MzZmVmODE0OWMxM2VmNTgwN2
+
+Q0MTAwYWEzYTEifQ%3D%3D
+
+#EXTINF:-1 ,A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/c46227e5-6a29
+
+-4c35-8f19-
+
+844eab8f45c3:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+
+#EXTINF:-1 ,Telefe Cordoba
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?
+
+hdnea=st=1622148159~exp=1622324559~acl=/i/canal8cordoba_1@685726/*~hmac=a3b121d8890b657
+
+2f80dec9e121a0d545cba6113d6ed6af3edb06d60b705b1b3
+
+#EXTINF:-1 ,Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?
+
+token=null
+
+#EXTINF:-1 ,Telefe en vivo
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?
+
+hdnea=st=1622148335~exp=1622155535~acl=/i/appmitelefe_1@326430/*~hmac=41e26e04b17f05491
+
+7577012870dd5517ab92b503585fefab032074e51da2842
+
+#EXTINF:-1 ,Canal 26
+https://live-
+
+edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w2010253741_b1864000_sleng.m3u8
+
+#EXTINF:-1 ,El tres TV Rosario
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-
+
+100168_all/rosario3_live01-100168_540p.m3u8
+
+#EXTINF:-1 ,Telefe Rosario
+https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?
+
+hdnea=st=1622148822~exp=1622325222~acl=/i/canal5rosario_1@685724/*~hmac=3c222ac4d2f2273
+
+ed2e9eb82f02d074dfb548ba83e48d4594020e6551b6c4815
+
+#EXTINF:-1 ,Canal 10 Mar Del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8?
+
+nimblesessionid=24590846
+
+#EXTINF:-1 ,Tyc Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m
+
+3u8
+
+#EXTINF:-1 ,TNT Sports
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?
+
+sd=10&rebase=on&id=AgCoeToMAhC8flgXsGBK7mlsxoEVWwOvBpjpz7aCf3hHqNFsF6NIpG+Re8Zi
+
+%2fKAv9GBPtpvWYBfEJA%3d%3d&hdntl=exp=1622174648~acl=
+
+%2f*~data=hdntl~hmac=0ed9ecb047e86552fa1dc2abaa54a0b6b1e5e3c9211d43553ee7fc3dc2a8c5e3
+
+#EXTINF:-1 ,Fox Sports Premium
+https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/c.m3u8?
+
+exp=1622153342&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=87396097585b
+
+1cab7a40939e8b1249284239e55a8f42c43d72c9b20b4f309615&euid=%7B0AB21471-8296-480C-8E67-
+
+643C28831153%7D_000_1_001_live_00-06-
+
+00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=ca8aaf82b342bae2982bb
+
+85988c0728f7d8486ff7af287823647e58ef67fe6f3&pbs=611ca57ce7554687a3ab70ba3a5d8860
+
+#EXTINF:-1 ,Win Sports
+https://e3.cdnfoxtv.com/ingest03/70270.m3u8?sf=b2dPU2prVlY4ZQ==&token=gs-EkJm3s3W-
+
+MsKNI1ZzgQ&expires=1622167813&rnd=
+
+#EXTINF:-1 ,Fox Sports
+https://content-asae1-up-2.uplynk.com/channel/8fac9e5f9b4f4e098efd2f88d77f8f57/d.m3u8?
+
+exp=1622153702&ct=c&cid=8fac9e5f9b4f4e098efd2f88d77f8f57&expand=drmOff&iph=9525790bb1e3
+
+c7009a14394bc5620cef39ca370952b6ac84590bd844d813663e&euid=%7B0AB21471-8296-480C-8E67-
+
+643C28831153%7D_000_1_001_live_00-06-
+
+00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=d6a0888448e85085c295a
+
+74e011b2b450d47bf4c7672bec3b342ae8abba49f4b&pbs=eb2675c078f243a4b84074ef5cac6ee1
+
+#EXTINF:-1 ,CDF Premium
+https://teleriumtv.net/ingest01/68472.m3u8?
+
+sf=YklPTzA3aHk5VA==&token=qOpkAb0QR3XeCwRTATgSgg&expires=1622153815&rnd=68472
+
+#EXTINF:-1 ,Fox Sports 2
+https://content-asae1-up-1.uplynk.com/channel/96d2eaa9a5c24b53a01c6bf15065386c/d.m3u8?
+
+exp=1622153822&ct=c&cid=96d2eaa9a5c24b53a01c6bf15065386c&expand=drmOff&iph=422045f95216
+
+10ace9fcd56f3830923fefab57e9a2c4193a071b122779d2eb4b&euid=%7B0AB21471-8296-480C-8E67-
+
+643C28831153%7D_000_1_001_live_00-06-
+
+00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=7bd6f232ed1b9983f7414
+
+6ac40bc16deca2fd6451f9ec5f67725f72ab5000be2&pbs=b9a2234a7d484b0aa93ed9a3c1b417b3
+
+#EXTINF:-1 ,Fox Sports 3
+https://content-asae1-up-1.uplynk.com/channel/414fee783dc64c1d8a9c3307de00065b/d.m3u8?
+
+exp=1622153822&ct=c&cid=414fee783dc64c1d8a9c3307de00065b&expand=drmOff&iph=422045f95216
+
+10ace9fcd56f3830923fefab57e9a2c4193a071b122779d2eb4b&euid=%7B0AB21471-8296-480C-8E67-
+
+643C28831153%7D_000_1_001_live_00-06-
+
+00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=45f9a769a8975634772fb
+
+f0cfe945f9c133989d6f48cbac1409567d58707cab1&pbs=f09ec17abbf941329cfe063d538583eb
+
+#EXTINF:-1 ,ESPN
+https://cdn14.esp-cdn.xyz/e/e_sur_hd.html?.m3u8
+
+#EXTINF:-1 ,ESPN 2
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/d.m3u8
+
+#EXTINF:-1 ,ESPN 3
+https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/master.m3u8
+
+#EXTINF:-1 ,VTV Uruguay
+chrome-
+
+extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://livestreamapis.com/v3/
+
+accounts/28253671/events/9183137/master.m3u8?
+
+token=8377aafb570ba492daf01fed14e86e33&clientId=18998&timestamp=1622155709197&signature
+
+=605c4756797d80000dfb2d167eacd10e411fba86819efda77aa411464541b4d2fb2db814839e2f47ca351f
+
+e166174547
+
+#EXTINF:-1 ,Directv Sports
+https://e3.cdnfoxtv.com/ingest03/71388.m3u8?
+
+sf=NlFvVm50UUlWSQ==&token=DULsHARbfCTIT6WkiJZG_Q&expires=1622170251&rnd=
+
+#EXTINF:-1 ,Directv Sports +
+https://e5.cdnfoxtv.com/ingest03/74000.m3u8?
+
+sf=Z3dKZ3BGZ0ZUVw==&token=TGwLAHzOkefKNjYD48lNbA&expires=1622170338&rnd=
+
+#EXTINF:-1 ,Directv Sports 2
+https://teleriumtv.net/ingest013/68176.m3u8?
+
+sf=Tnh4NVl4MDlDRg==&token=ZcaNSaDjq2p4hDV2va3PYA&expires=1622156224&rnd=68176
+
+#EXTINF:-1 ,GOL TV
+chrome-
+
+extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://livestreamapis.com/v3/
+
+accounts/28253671/events/9183137/master.m3u8?
+
+token=f74394ce89c24649c960e3ca6b0aa8a7&clientId=18998&timestamp=1622156070765&signature
+
+=605c4756797d80000dfb2d167eacd10e7741ec3e54852bb0de7fcd85ccca845afaf8ca4c16b9d52561c535
+
+0c06ebaeb9
+
+#EXTINF:-1 ,BEIN Sports
+chrome-
+
+extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://livestreamapis.com/v3/
+
+accounts/28858503/events/9205823/master.m3u8?
+
+token=ae457625b8300bdce3fee77b7a54ed85&clientId=18998&timestamp=1622156074362&signature
+
+=605c4756797d80000dfb2d167eacd10e7741ec3e54852bb0de7fcd85ccca845ac217aa50f2808cf2665148
+
+b64ef1a7f0
+
+#EXTINF:-1 ,TV Publica
+https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-
+
+20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
+#EXTINF:-1 ,SPACE
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?
+
+sd=10&rebase=on&id=AgCoeToMAhVbBuUksGCKZTIULRRnvFczTo1Q0RGqMQ7YKK0ES9DW0VoHoizOI1k1unYr
+
+qEXpT0UTaA%3d%3d&hdntl=exp=1622178117~acl=
+
+%2f*~data=hdntl~hmac=9901187fde7760d54f295e8847ec0bec74e0531e428b98d3b4aeb277e9092966
+
+#EXTINF:-1 ,TNT HD
+https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/index_720_av-p.m3u8?
+
+sd=10&rebase=on&id=AgCoeToMAhVbdeUksGDMygcM07Sb1SLPZjIy1hZxsqE0e2iCqwgzmiweVHTebPkfJ8a
+
++f6Tc%2fhuGkA%3d%3d&hdntl=exp=1622242917~acl=
+
+%2f*~data=hdntl~hmac=5ed04dfaaed9826831d20a0b178ad32d97784b7fd8fbb5ece0949f23c49e835a
+
+#EXTINF:-1 ,TNT SERIES
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_720_av-p.m3u8?
+
+sd=10&rebase=on&id=AgCoeToJAhVbZucksGAY%2fXfkAZysdYk9t478GvBVPWa
+
+%2fMPM5JKyzCn9AdxSVkhGRRrRFGZEA45jzJA%3d%3d&hdntl=exp=1622242919~acl=
+
+%2f*~data=hdntl~hmac=1d8b02c43204076df82067702a3cfd33f56e602bdf666b53b3b29bbbb33a8d0e
+
+#EXTINF:-1 ,Top Music
+https://live-
+
+edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1857931032_b2028000_sleng.m
+
+3u8
+
+#EXTINF:-1 ,Baby First
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://service-
+
+stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?
+
+advertisingId=&appName=web&appVersion=5.7.5-
+
+0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&device
+
+DNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-
+
+68.8167&deviceMake=Android%2BBrowser&deviceModel=Android
+
+%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion
+
+=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+
+
+
