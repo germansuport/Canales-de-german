@@ -1,11 +1,1485 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Noticias | CNN" tvg-
 
+logo="https://e7.pngegg.com/pngimages/507/10/png-clipart-cnn-logo-graphics-hand-painted-
 
-#EXTINF:-0 ,LA_SD_MEX2:FOX SPORTS 3
-http://redcoliptv.com:8090/ILrMEhnpBo/5lrgLhuc5D/2306
+decoration-television-text.png" group-title="Noticias",Noticias | CNN
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39639
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="Argentina | A24" tvg-logo="http://54.39.128.48/img/16.png" 
 
-#EXTINF:-0 ,SD FOX SPORTS 2
-http://redcoliptv.com:8090/ILrMEhnpBo/5lrgLhuc5D/2305
+group-title="Argentina",Argentina | A24
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14082
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="Argentina | America TV" tvg-
 
-#EXTINF:-1 ,LA_SD_MEX2:FOX SPORTS
-http://redcoliptv.com:8090/ILrMEhnpBo/5lrgLhuc5D/2304
+logo="http://54.39.128.48/img/17.png" group-title="Argentina",Argentina | America TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12641
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="Argentina | C5N" tvg-logo="http://54.39.128.48/img/18.png" 
+
+group-title="Argentina",Argentina | C5N
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4191
+#EXTINF:-1 tvg-id="26tv.ar" tvg-name="Argentina | Canal 26 HD" tvg-
+
+logo="http://54.39.128.48/img/19.png" group-title="Argentina",Argentina | Canal 26 HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12291
+#EXTINF:-1 tvg-id="cronicatv.ar" tvg-name="Argentina | Cronica TV" tvg-
+
+logo="http://54.39.128.48/img/21.png" group-title="Argentina",Argentina | Cronica TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12658
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="Argentina | DeporTV" tvg-
+
+logo="http://54.39.128.48/img/22.png" group-title="Argentina",Argentina | DeporTV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6683
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="Argentina | El Nueve" tvg-
+
+logo="http://54.39.128.48/img/24.png" group-title="Argentina",Argentina | El Nueve
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12622
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="Argentina | El Trece 13" tvg-
+
+logo="http://54.39.128.48/img/25.png" group-title="Argentina",Argentina | El Trece 13
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12650
+#EXTINF:-1 tvg-id="lnplus.ar" tvg-name="Argentina | LN+" tvg-
+
+logo="http://54.39.128.48/img/26.png" group-title="Argentina",Argentina | LN+
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14004
+#EXTINF:-1 tvg-id="tecnopolistv.ar" tvg-name="Argentina | TEC TV" tvg-
+
+logo="http://54.39.128.48/img/38.png" group-title="Argentina",Argentina | TEC TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/18293
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Argentina | Telefe" tvg-
+
+logo="http://54.39.128.48/img/27.png" group-title="Argentina",Argentina | Telefe
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12637
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="Argentina | TN Todo Noticias" tvg-
+
+logo="http://54.39.128.48/img/28.png" group-title="Argentina",Argentina | TN Todo Noticias
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12638
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="Argentina | TV Publica" tvg-
+
+logo="http://54.39.128.48/img/29.png" group-title="Argentina",Argentina | TV Publica
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12623
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Volver" tvg-logo="https://antenaslatinas.com/wp-
+
+content/uploads/Logos/Canal-Volver.png" group-title="Argentina",Argentina | Volver
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/32975
+#EXTINF:-1 tvg-id="247canaldenoticias" tvg-name="Noticias | 24/7 NOTICIAS " tvg-
+
+logo="http://54.39.128.48/img/33.png" group-title="Noticias",Noticias | 24/7 NOTICIAS 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/3871
+#EXTINF:-1 tvg-id="EPG123.36844.XMLTV.CO" tvg-name="Noticias | BBC World " tvg-
+
+logo="https://pbs.twimg.com/profile_images/687672669832110080/u9QE17L7_400x400.png" group-
+
+title="Noticias",Noticias | BBC World 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15947
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="Noticias | CNN en Espanol" tvg-
+
+logo="http://54.39.128.48/img/41.png" group-title="Noticias",Noticias | CNN en Espanol
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15959
+#EXTINF:-1 tvg-id="cnninter.es" tvg-name="Noticias | CNN Internacional" tvg-
+
+logo="https://www.stickpng.com/assets/images/5842ab75a6515b1e0ad75b0b.png" group-
+
+title="Noticias",Noticias | CNN Internacional
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15964
+#EXTINF:-1 tvg-id="EPG123.46163.XMLTV.CO" tvg-name="Noticias | Fox News " tvg-
+
+logo="https://pbs.twimg.com/profile_images/635575061739622401/IySQbKZE_400x400.png" group-
+
+title="Noticias",Noticias | Fox News 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15967
+#EXTINF:-1 tvg-id="EPG123.20436.XMLTV.CO" tvg-name="Noticias | Headline News" tvg-
+
+logo="https://findlogovector.com/wp-content/uploads/2018/07/headline-news-logo-vector.png" 
+
+group-title="Noticias",Noticias | Headline News
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15969
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Directv Sports (Argentina)" tvg-logo="" group-
+
+title="Deportes",Deportes | Directv Sports (Argentina)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39938
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Directv Sport 2" tvg-logo="" group-
+
+title="Deportes",Deportes | Directv Sport 2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39937
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Directv Sport Plus" tvg-logo="" group-
+
+title="Deportes",Deportes | Directv Sport Plus
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39936
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Directv Sport" tvg-logo="" group-
+
+title="Deportes",Deportes | Directv Sport
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39935
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | TNT Sports Opc 3" tvg-logo="" group-
+
+title="Deportes",Deportes | TNT Sports Opc 3
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39865
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | TNT Sports Opc 2" tvg-logo="" group-
+
+title="Deportes",Deportes | TNT Sports Opc 2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39864
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Adrenalina Sports Network" tvg-
+
+logo="https://www.telecablecr.com/wp-content/uploads/2019/01/ADRENALINA-SPORTS-NETWORK-NEGRO-
+
+300x169.png" group-title="Deportes",Deportes | Adrenalina Sports Network
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39523
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Al Kass Sports 1 " tvg-logo="https://cne-
+
+eg.com/uploads/logos/20183142627377.png" group-title="Deportes",Deportes | Al Kass Sports 1 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12407
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Al Kass Sports 2 " tvg-logo="https://sport-tv-
+
+guide.live/images/tv-station-al-kass-two-744.png" group-title="Deportes",Deportes | Al Kass 
+
+Sports 2 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12408
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="Deportes | Barca TV" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/BarcaTV_c.png" group-title="Deportes",Deportes | Barca TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24329
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-
+
+title="Deportes",Deportes | Bein Sports
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12026
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports 4" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_connect_4_c.png" group-title="Deportes",Deportes | 
+
+Bein Sports 4
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24332
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports 5" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_connect_5_c.png" group-title="Deportes",Deportes | 
+
+Bein Sports 5
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24333
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports 6" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_connect_6_c.png" group-title="Deportes",Deportes | 
+
+Bein Sports 6
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24334
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports 7" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_connect_7_c.png" group-title="Deportes",Deportes | 
+
+Bein Sports 7
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24335
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports 8" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_connect_8_c.png" group-title="Deportes",Deportes | 
+
+Bein Sports 8
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24336
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | beIN SPORTS Canada" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/bein_sports_canada_c.png" group-title="Deportes",Deportes 
+
+| beIN SPORTS Canada
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24337
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Bein Sports en Español" tvg-logo="https://fubotv-v3-
+
+dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png" group-
+
+title="Deportes",Deportes | Bein Sports en Español
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24338
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="Deportes | Bein Sports LaLiga" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-
+
+title="Deportes",Deportes | Bein Sports LaLiga
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24330
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Canal de Tenis" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/tennis-channel_c.png" group-title="Deportes",Deportes | 
+
+Canal de Tenis
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24344
+#EXTINF:-1 tvg-id="EPG123.101736.XMLTV.CO" tvg-name="Deportes | Canal Golf" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/the_golf_channel_c.png" 
+
+group-title="Deportes",Deportes | Canal Golf
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24343
+#EXTINF:-1 tvg-id="EPG123.84479.XMLTV.CO" tvg-name="Deportes | Claro Sports Latam" tvg-
+
+logo="http://54.39.128.48/img/42.png" group-title="Deportes",Deportes | Claro Sports Latam
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14057
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Eleven Sports Network" tvg-logo="https://fubotv-v3-
+
+dev-custom-assets.imgix.net/station_logos/eleven_sports_c.png" group-title="Deportes",Deportes 
+
+| Eleven Sports Network
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24362
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | EPN U Int." tvg-
+
+logo="https://www.pinpng.com/pngs/m/268-2684368_espn-hd-logo-png-espn-international-logo-
+
+transparent.png" group-title="Deportes",Deportes | EPN U Int.
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36626
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="Deportes | ESPN (Argentina)" tvg-
+
+logo="http://54.39.128.48/img/47.png" group-title="Deportes",Deportes | ESPN (Argentina)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12047
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN (Mexico)" tvg-logo="https://3.bp.blogspot.com/-
+
+d9qvU9bOLaM/W6loCBsQuTI/AAAAAAAAAG4/tG-
+
+UfwGUtAkHNw7wcNhzK941WbDlw2CPACPcBGAYYCw/s1600/espnmexico.png" group-title="Deportes",Deportes 
+
+| ESPN (Mexico)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36666
+#EXTINF:-1 tvg-id="espn+.ar" tvg-name="Deportes | ESPN + " tvg-
+
+logo="http://54.39.128.48/img/48.png" group-title="Deportes",Deportes | ESPN + 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12698
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN + (Mexico)" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-
+
+title="Deportes",Deportes | ESPN + (Mexico)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36669
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="Deportes | ESPN 2 (Argentina)" tvg-
+
+logo="http://54.39.128.48/img/49.png" group-title="Deportes",Deportes | ESPN 2 (Argentina)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12655
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 2 (Mexico)" tvg-
+
+logo="https://4.bp.blogspot.com/-kapvo9xDCXw/W6ln5W14N0I/AAAAAAAAAGs/MF-
+
+UJJleKOsmiln2PQdLlTbDSTO3T1nKACPcBGAYYCw/s1600/espn2mexico.png" group-title="Deportes",Deportes 
+
+| ESPN 2 (Mexico)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36668
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 2 Brazil" tvg-
+
+logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-
+
+f680b88cd23b.png" group-title="Deportes",Deportes | ESPN 2 Brazil
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36629
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 2 Colombia" tvg-
+
+logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-
+
+f680b88cd23b.png" group-title="Deportes",Deportes | ESPN 2 Colombia
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36631
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 2 Peru" tvg-
+
+logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-
+
+f680b88cd23b.png" group-title="Deportes",Deportes | ESPN 2 Peru
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36630
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 2 USA" tvg-
+
+logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-
+
+f680b88cd23b.png" group-title="Deportes",Deportes | ESPN 2 USA
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36638
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="Deportes | ESPN 3 (Argentina)" tvg-
+
+logo="http://54.39.128.48/img/50.png" group-title="Deportes",Deportes | ESPN 3 (Argentina)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12654
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN 3 (Mexico)" tvg-
+
+logo="https://3.bp.blogspot.com/-E7U76IniEIw/W6ln_eXwxqI/AAAAAAAAAG4/L3U5bplcLakT-9S3g-
+
+zOuskWMXTdB9TeQCPcBGAYYCw/s1600/espn3mexico.png" group-title="Deportes",Deportes | ESPN 3 
+
+(Mexico)
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36667
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN ACC" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280p
+
+x-ACC_Network_ESPN_logo.svg.png" group-title="Deportes",Deportes | ESPN ACC
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36628
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN Chile" tvg-
+
+logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-
+
+title="Deportes",Deportes | ESPN Chile
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36632
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN DEPORTES" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1280px-
+
+Espn_deportes.svg.png" group-title="Deportes",Deportes | ESPN DEPORTES
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36637
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN NEWS" tvg-
+
+logo="https://www.pikpng.com/pngl/m/48-489705_http-espn-news-channel-logo-png-clipart.png" 
+
+group-title="Deportes",Deportes | ESPN NEWS
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36635
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN NEWS Int." tvg-
+
+logo="https://www.pikpng.com/pngl/m/48-489705_http-espn-news-channel-logo-png-clipart.png" 
+
+group-title="Deportes",Deportes | ESPN NEWS Int.
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36627
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN Sec" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-
+
+title="Deportes",Deportes | ESPN Sec
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36625
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN U" tvg-
+
+logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-
+
+87427babe201.png" group-title="Deportes",Deportes | ESPN U
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36636
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | ESPN USA" tvg-logo="https://logo-logos.com/wp-
+
+content/uploads/2016/11/ESPN_logo_symbol_red.png" group-title="Deportes",Deportes | ESPN USA
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36639
+#EXTINF:-1 tvg-id="foxsportsprem.ar" tvg-name="Deportes | Fox Sport Premium HD" tvg-
+
+logo="http://54.39.128.48/img/51.png" group-title="Deportes",Deportes | Fox Sport Premium HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12671
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Fox Sport Premium SD" tvg-
+
+logo="http://54.39.128.48/img/51.png" group-title="Deportes",Deportes | Fox Sport Premium SD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36671
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Deportes | Fox Sports 2 Argentina" tvg-
+
+logo="http://54.39.128.48/img/53.png" group-title="Deportes",Deportes | Fox Sports 2 Argentina
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20576
+#EXTINF:-1 tvg-id="foxsports2.co" tvg-name="Deportes | Fox Sports 2 Colombia" tvg-
+
+logo="http://54.39.128.48/img/53.png" group-title="Deportes",Deportes | Fox Sports 2 Colombia
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12024
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Fox Sports 2 Mexico" tvg-
+
+logo="http://54.39.128.48/img/53.png" group-title="Deportes",Deportes | Fox Sports 2 Mexico
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20582
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Deportes | Fox Sports 2 Sur" tvg-
+
+logo="http://54.39.128.48/img/53.png" group-title="Deportes",Deportes | Fox Sports 2 Sur
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20579
+#EXTINF:-1 tvg-id="foxsports3.co" tvg-name="Deportes | Fox Sports 3 Colombia" tvg-
+
+logo="http://54.39.128.48/img/178.png" group-title="Deportes",Deportes | Fox Sports 3 Colombia
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12025
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Fox Sports 3 Mexico" tvg-
+
+logo="http://54.39.128.48/img/178.png" group-title="Deportes",Deportes | Fox Sports 3 Mexico
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20583
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Deportes | Fox Sports 3 Sur" tvg-
+
+logo="http://54.39.128.48/img/178.png" group-title="Deportes",Deportes | Fox Sports 3 Sur
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20580
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Deportes | Fox Sports Argentina" tvg-
+
+logo="http://54.39.128.48/img/52.png" group-title="Deportes",Deportes | Fox Sports Argentina
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20575
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Fox Sports Chile" tvg-
+
+logo="http://54.39.128.48/img/52.png" group-title="Deportes",Deportes | Fox Sports Chile
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20577
+#EXTINF:-1 tvg-id="foxsports.co" tvg-name="Deportes | Fox Sports Colombia" tvg-
+
+logo="http://54.39.128.48/img/52.png" group-title="Deportes",Deportes | Fox Sports Colombia
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12023
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Deportes | Fox Sports Mexico" tvg-
+
+logo="http://54.39.128.48/img/52.png" group-title="Deportes",Deportes | Fox Sports Mexico
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20581
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Deportes | Fox Sports Sur" tvg-
+
+logo="http://54.39.128.48/img/52.png" group-title="Deportes",Deportes | Fox Sports Sur
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20578
+#EXTINF:-1 tvg-id="EPG123.14899.XMLTV.CO" tvg-name="Deportes | GOLF " tvg-
+
+logo="http://54.39.128.48/img/54.png" group-title="Deportes",Deportes | GOLF 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12653
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | LONGHORN NETWORK" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280p
+
+x-Longhorn_Network_logo.svg.png" group-title="Deportes",Deportes | LONGHORN NETWORK
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36634
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | MLB HD" tvg-logo="http://54.39.128.48/img/57.png" 
+
+group-title="Deportes",Deportes | MLB HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6807
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Deportes | Movistar Deportes" tvg-
+
+logo="http://54.39.128.48/img/58.png" group-title="Deportes",Deportes | Movistar Deportes
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12656
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Movistar Deportes 2" tvg-
+
+logo="http://54.39.128.48/img/59.png" group-title="Deportes",Deportes | Movistar Deportes 2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12676
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="Deportes | Movistar Formula 1" tvg-
+
+logo="http://54.39.128.48/img/60.png" group-title="Deportes",Deportes | Movistar Formula 1
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12677
+#EXTINF:-1 tvg-id="EPG123.45399.XMLTV.CO" tvg-name="Deportes | NFL Network" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nfl_network_c.png" group-
+
+title="Deportes",Deportes | NFL Network
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24358
+#EXTINF:-1 tvg-id="EPG123.65025.XMLTV.CO" tvg-name="Deportes | NFL RedZone" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nfl_redzone_c.png" group-
+
+title="Deportes",Deportes | NFL RedZone
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24359
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Deportes | Real Madrid TV " tvg-
+
+logo="http://54.39.128.48/img/61.png" group-title="Deportes",Deportes | Real Madrid TV 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12101
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | SEC NETWORK" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-
+
+title="Deportes",Deportes | SEC NETWORK
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36633
+#EXTINF:-1 tvg-id="skynews.es" tvg-name="Deportes | SKY News" tvg-
+
+logo="http://54.39.128.48/img/63.png" group-title="Deportes",Deportes | SKY News
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12466
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Sportsman" tvg-logo="https://fubotv-v3-dev-custom-
+
+assets.imgix.net/station_logos/spmnhd_c.png" group-title="Deportes",Deportes | Sportsman
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24349
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Deportes | Teledeporte" tvg-logo="https://fubotv-
+
+v3-dev-custom-assets.imgix.net/station_logos/teledeporte_c.png" group-title="Deportes",Deportes 
+
+| Teledeporte
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24345
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Teletrack SPORT " tvg-
+
+logo="https://imgur.com/SGX5yDQ.png" group-title="Deportes",Deportes | Teletrack SPORT 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12540
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | The Fight Network" tvg-logo="https://fubotv-v3-dev-
+
+custom-assets.imgix.net/station_logos/fight_network_c.png" group-title="Deportes",Deportes | 
+
+The Fight Network
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24342
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Tigo Sports +" tvg-
+
+logo="http://54.39.128.48/img/64.png" group-title="Deportes",Deportes | Tigo Sports +
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15993
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Tigo Sports HD" tvg-
+
+logo="http://54.39.128.48/img/65.png" group-title="Deportes",Deportes | Tigo Sports HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15992
+#EXTINF:-1 tvg-id="tntsport.ar" tvg-name="Deportes | TNT Sports HD" tvg-
+
+logo="http://54.39.128.48/img/66.png" group-title="Deportes",Deportes | TNT Sports HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/19496
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | TNT Sports SD" tvg-
+
+logo="http://54.39.128.48/img/66.png" group-title="Deportes",Deportes | TNT Sports SD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/36670
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 1" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 1
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24363
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 10" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 10
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24364
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 11" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 11
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24365
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 2" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24366
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 3" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 3
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24367
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 4" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 4
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24368
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 5" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 5
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24369
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 6" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 6
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24370
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 7" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 7
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24371
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 8" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 8
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24372
+#EXTINF:-1 tvg-id="EPG123.65129.XMLTV.CO" tvg-name="Deportes | TUDNxtra 9" tvg-
+
+logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png" group-
+
+title="Deportes",Deportes | TUDNxtra 9
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24373
+#EXTINF:-1 tvg-id="EPG123.57580.XMLTV.CO" tvg-name="Deportes | TVC Deportes " tvg-
+
+logo="https://2.bp.blogspot.com/-iTrO9u2_ycs/UgKMVLni5qI/AAAAAAAAAQg/Qlb1RXtqNaw/s1600/TVC-
+
+DEPORTEScfp.png" group-title="Deportes",Deportes | TVC Deportes 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12389
+#EXTINF:-1 tvg-id="tycsports2.ar" tvg-name="Deportes | TyC Sports" tvg-
+
+logo="http://54.39.128.48/img/68.png" group-title="Deportes",Deportes | TyC Sports
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12027
+#EXTINF:-1 tvg-id="EPG123.62043.XMLTV.CO" tvg-name="Deportes | TYC Sports Internacional" tvg-
+
+logo="https://media02.statarea.com/images/tv/628.png" group-title="Deportes",Deportes | TYC 
+
+Sports Internacional
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24374
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Deportes | WIN SPORTS" tvg-
+
+logo="http://54.39.128.48/img/69.png" group-title="Deportes",Deportes | WIN SPORTS
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12029
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Zona Futbol" tvg-logo="https://fubotv-v3-dev-custom-
+
+assets.imgix.net/station_logos/zona-futbol_new_c.png" group-title="Deportes",Deportes | Zona 
+
+Futbol
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/24341
+#EXTINF:-1 tvg-id="EPG123.95131.XMLTV.CO" tvg-name="Entretenimiento | Fox" tvg-
+
+logo="http://54.39.128.48/img/94.png" group-title="Entretenimiento",Entretenimiento | Fox
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/11998
+#EXTINF:-1 tvg-id="foxaction.ar" tvg-name="Entretenimiento | Fox Action" tvg-
+
+logo="http://54.39.128.48/img/95.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Action
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/11994
+#EXTINF:-1 tvg-id="foxaction.ar" tvg-name="Entretenimiento | Fox Action Mexico" tvg-
+
+logo="http://54.39.128.48/img/96.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Action Mexico
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15998
+#EXTINF:-1 tvg-id="EPG123.98729.XMLTV.CO" tvg-name="Entretenimiento | Fox Cinema" tvg-
+
+logo="http://54.39.128.48/img/97.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Cinema
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14055
+#EXTINF:-1 tvg-id="foxclassics.ar" tvg-name="Entretenimiento | Fox Classics" tvg-
+
+logo="http://54.39.128.48/img/99.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Classics
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12647
+#EXTINF:-1 tvg-id="foxcomedy.ar" tvg-name="Entretenimiento | Fox Comedy" tvg-
+
+logo="http://54.39.128.48/img/100.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Comedy
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/11996
+#EXTINF:-1 tvg-id="foxfamily.ar" tvg-name="Entretenimiento | Fox Family" tvg-
+
+logo="http://54.39.128.48/img/101.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Family
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/11997
+#EXTINF:-1 tvg-id="EPG123.49263.XMLTV.CO" tvg-name="Entretenimiento | Fox Life" tvg-
+
+logo="http://54.39.128.48/img/103.png" group-title="Entretenimiento",Entretenimiento | Fox Life
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12685
+#EXTINF:-1 tvg-id="foxmovies.mx" tvg-name="Entretenimiento | Fox Movies" tvg-
+
+logo="http://54.39.128.48/img/102.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Movies
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/11999
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento | Fox Series" tvg-
+
+logo="http://54.39.128.48/img/104.png" group-title="Entretenimiento",Entretenimiento | Fox 
+
+Series
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12000
+#EXTINF:-1 tvg-id="fx.ar" tvg-name="Entretenimiento | FX" tvg-
+
+logo="http://54.39.128.48/img/105.png" group-title="Entretenimiento",Entretenimiento | FX
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12001
+#EXTINF:-1 tvg-id="golden.ar" tvg-name="Entretenimiento | Golden" tvg-
+
+logo="http://54.39.128.48/img/106.png" group-title="Entretenimiento",Entretenimiento | Golden
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12044
+#EXTINF:-1 tvg-id="EPG123.68317.XMLTV.CO" tvg-name="Entretenimiento | Golden Plus " tvg-
+
+logo="http://54.39.128.48/img/107.png" group-title="Entretenimiento",Entretenimiento | Golden 
+
+Plus 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12043
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="Entretenimiento | HBO" tvg-
+
+logo="http://54.39.128.48/img/108.png" group-title="Entretenimiento",Entretenimiento | HBO
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15996
+#EXTINF:-1 tvg-id="hbo2.ar" tvg-name="Entretenimiento | HBO 2" tvg-
+
+logo="http://54.39.128.48/img/110.png" group-title="Entretenimiento",Entretenimiento | HBO 2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12003
+#EXTINF:-1 tvg-id="hbofamily.ar" tvg-name="Entretenimiento | HBO Family" tvg-
+
+logo="http://54.39.128.48/img/111.png" group-title="Entretenimiento",Entretenimiento | HBO 
+
+Family
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12005
+#EXTINF:-1 tvg-id="hbomundi.ar" tvg-name="Entretenimiento | HBO Mundi " tvg-
+
+logo="http://54.39.128.48/img/117.png" group-title="Entretenimiento",Entretenimiento | HBO 
+
+Mundi 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14056
+#EXTINF:-1 tvg-id="EPG123.75537.XMLTV.CO" tvg-name="Entretenimiento | HBO Plus" tvg-
+
+logo="http://54.39.128.48/img/112.png" group-title="Entretenimiento",Entretenimiento | HBO Plus
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12004
+#EXTINF:-1 tvg-id="hbopop.ar" tvg-name="Entretenimiento | HBO Pop" tvg-
+
+logo="http://54.39.128.48/img/119.png" group-title="Entretenimiento",Entretenimiento | HBO Pop
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12034
+#EXTINF:-1 tvg-id="EPG123.80120.XMLTV.CO" tvg-name="Entretenimiento | HBO Signature" tvg-
+
+logo="http://54.39.128.48/img/113.png" group-title="Entretenimiento",Entretenimiento | HBO 
+
+Signature
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12006
+#EXTINF:-1 tvg-id="hboxtreme.ar" tvg-name="Entretenimiento | HBO Xtreme " tvg-
+
+logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-
+
+XTREME-Black.png" group-title="Entretenimiento",Entretenimiento | HBO Xtreme 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12693
+#EXTINF:-1 tvg-id="isat.ar" tvg-name="Entretenimiento | I-SAT" tvg-
+
+logo="http://54.39.128.48/img/114.png" group-title="Entretenimiento",Entretenimiento | I-SAT
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12035
+#EXTINF:-1 tvg-id="EPG123.100088.XMLTV.CO" tvg-name="Entretenimiento | LifeTime" tvg-
+
+logo="http://54.39.128.48/img/115.png" group-title="Entretenimiento",Entretenimiento | LifeTime
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12651
+#EXTINF:-1 tvg-id="maschic.ar" tvg-name="Entretenimiento | Maschic" tvg-
+
+logo="http://54.39.128.48/img/116.png" group-title="Entretenimiento",Entretenimiento | Maschic
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15929
+#EXTINF:-1 tvg-id="multipremier.co" tvg-name="Entretenimiento | Film Arts" tvg-
+
+logo="http://54.39.128.48/img/121.png" group-title="Entretenimiento",Entretenimiento | Film 
+
+Arts
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15952
+#EXTINF:-1 tvg-id="paramountchannel.ar" tvg-name="Entretenimiento | Paramount" tvg-
+
+logo="http://54.39.128.48/img/122.png" group-title="Entretenimiento",Entretenimiento | 
+
+Paramount
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12032
+#EXTINF:-1 tvg-id="pasiones.ar" tvg-name="Entretenimiento | Pasiones" tvg-
+
+logo="http://54.39.128.48/img/123.png" group-title="Entretenimiento",Entretenimiento | Pasiones
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15931
+#EXTINF:-1 tvg-id="EPG123.88517.XMLTV.CO" tvg-name="Entretenimiento | Sony" tvg-
+
+logo="http://54.39.128.48/img/124.png" group-title="Entretenimiento",Entretenimiento | Sony
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12010
+#EXTINF:-1 tvg-id="EPG123.66349.XMLTV.CO" tvg-name="Entretenimiento | Space" tvg-
+
+logo="http://54.39.128.48/img/125.png" group-title="Entretenimiento",Entretenimiento | Space
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12009
+#EXTINF:-1 tvg-id="EPG123.29017.XMLTV.CO" tvg-name="Entretenimiento | Studio Universal" tvg-
+
+logo="http://54.39.128.48/img/127.png" group-title="Entretenimiento",Entretenimiento | Studio 
+
+Universal
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12011
+#EXTINF:-1 tvg-id="sundancechannel.ar" tvg-name="Entretenimiento | Sundance" tvg-
+
+logo="http://54.39.128.48/img/126.png" group-title="Entretenimiento",Entretenimiento | Sundance
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15954
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="Entretenimiento | SYFY" tvg-
+
+logo="http://54.39.128.48/img/128.png" group-title="Entretenimiento",Entretenimiento | SYFY
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15974
+#EXTINF:-1 tvg-id="EPG123.75073.XMLTV.CO" tvg-name="Entretenimiento | TBS" tvg-
+
+logo="http://54.39.128.48/img/129.png" group-title="Entretenimiento",Entretenimiento | TBS
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12041
+#EXTINF:-1 tvg-id="tcm.ar" tvg-name="Entretenimiento | TCM" tvg-
+
+logo="http://54.39.128.48/img/130.png" group-title="Entretenimiento",Entretenimiento | TCM
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12053
+#EXTINF:-1 tvg-id="EPG123.80807.XMLTV.CO" tvg-name="Entretenimiento | TNT" tvg-
+
+logo="http://54.39.128.48/img/132.png" group-title="Entretenimiento",Entretenimiento | TNT
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12036
+#EXTINF:-1 tvg-id="EPG123.91993.XMLTV.CO" tvg-name="Entretenimiento | Tnt series" tvg-
+
+logo="http://54.39.128.48/img/133.png" group-title="Entretenimiento",Entretenimiento | Tnt 
+
+series
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12037
+#EXTINF:-1 tvg-id="EPG123.68223.XMLTV.CO" tvg-name="Entretenimiento | Tru tv" tvg-
+
+logo="http://54.39.128.48/img/134.png" group-title="Entretenimiento",Entretenimiento | Tru tv
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12040
+#EXTINF:-1 tvg-id="universal.mx" tvg-name="Entretenimiento | Universal" tvg-
+
+logo="http://54.39.128.48/img/135.png" group-title="Entretenimiento",Entretenimiento | 
+
+Universal
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12030
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Entretenimiento | Warner Channel" tvg-
+
+logo="http://54.39.128.48/img/136.png" group-title="Entretenimiento",Entretenimiento | Warner 
+
+Channel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12008
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="Cultura | Animal Planet" tvg-
+
+logo="http://54.39.128.48/img/138.png" group-title="Cultura",Cultura | Animal Planet
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12016
+#EXTINF:-1 tvg-id="discovery.mx" tvg-name="Cultura | Discovery Channel" tvg-
+
+logo="http://54.39.128.48/img/139.png" group-title="Cultura",Cultura | Discovery Channel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12018
+#EXTINF:-1 tvg-id="discoverycivilization.ar" tvg-name="Cultura | Discovery Civilization" tvg-
+
+logo="http://54.39.128.48/img/156.png" group-title="Cultura",Cultura | Discovery Civilization
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/20641
+#EXTINF:-1 tvg-id="discoveryhomehealth.ar" tvg-name="Cultura | Discovery Home and Health" tvg-
+
+logo="http://54.39.128.48/img/140.png" group-title="Cultura",Cultura | Discovery Home and 
+
+Health
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12052
+#EXTINF:-1 tvg-id="discoveryscience.ar" tvg-name="Cultura | Discovery Science" tvg-
+
+logo="http://54.39.128.48/img/141.png" group-title="Cultura",Cultura | Discovery Science
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12415
+#EXTINF:-1 tvg-id="discoverytheater.ar" tvg-name="Cultura | Discovery Theater" tvg-
+
+logo="http://54.39.128.48/img/143.png" group-title="Cultura",Cultura | Discovery Theater
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12680
+#EXTINF:-1 tvg-id="EPG123.74420.XMLTV.CO" tvg-name="Cultura | Discovery TLC" tvg-
+
+logo="http://54.39.128.48/img/144.png" group-title="Cultura",Cultura | Discovery TLC
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12681
+#EXTINF:-1 tvg-id="discoveryturbo.ar" tvg-name="Cultura | Discovery turbo" tvg-
+
+logo="http://54.39.128.48/img/145.png" group-title="Cultura",Cultura | Discovery turbo
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12046
+#EXTINF:-1 tvg-id="discoveryworld.ar" tvg-name="Cultura | Discovery World" tvg-
+
+logo="http://54.39.128.48/img/146.png" group-title="Cultura",Cultura | Discovery World
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12679
+#EXTINF:-1 tvg-id="elgourmet.ar" tvg-name="Cultura | El Gourmet" tvg-
+
+logo="http://54.39.128.48/img/147.png" group-title="Cultura",Cultura | El Gourmet
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12042
+#EXTINF:-1 tvg-id="h2.ar" tvg-name="Cultura | H2" tvg-logo="http://54.39.128.48/img/148.png" 
+
+group-title="Cultura",Cultura | H2
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12682
+#EXTINF:-1 tvg-id="EPG123.91933.XMLTV.CO" tvg-name="Cultura | History Channel" tvg-
+
+logo="http://54.39.128.48/img/149.png" group-title="Cultura",Cultura | History Channel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12672
+#EXTINF:-1 tvg-id="investigationdisc.mx" tvg-name="Cultura | Investigation Discovery" tvg-
+
+logo="http://54.39.128.48/img/150.png" group-title="Cultura",Cultura | Investigation Discovery
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12414
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="Cultura | Nat Geo" tvg-
+
+logo="http://54.39.128.48/img/151.png" group-title="Cultura",Cultura | Nat Geo
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12673
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Cultura | Nat Geo Wild" tvg-
+
+logo="http://54.39.128.48/img/152.png" group-title="Cultura",Cultura | Nat Geo Wild
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12683
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 11 Parana" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 11 Parana
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39948
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 8 Mar Del Plata" tvg-logo="" group-
+
+title="Argentina (Otros)",Argentina | Canal 8 Mar Del Plata
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39946
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Información Periodística" tvg-logo="" group-
+
+title="Argentina (Otros)",Argentina | Información Periodística
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39945
+#EXTINF:-1 tvg-id="" tvg-name="Argentina |  Sistema Municipal de Medios" tvg-logo="" group-
+
+title="Argentina (Otros)",Argentina |  Sistema Municipal de Medios
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39942
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal Rural" tvg-logo="" group-
+
+title="Argentina",Argentina | Canal Rural
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39932
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 11 Entre Ríos" tvg-logo="" group-
+
+title="Argentina (Otros)",Argentina | Canal 11 Entre Ríos
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39931
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 7 Jujuy" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 7 Jujuy
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39929
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 8 Cordoba" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 8 Cordoba
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39868
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 Cordoba" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 10 Cordoba
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39867
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 Tucuman" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 10 Tucuman
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39862
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9 Norte Eldorado Misionero" tvg-logo="" 
+
+group-title="Argentina (Otros)",Argentina | Canal 9 Norte Eldorado Misionero
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39859
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 8 Tucuman" tvg-logo="" group-title="Argentina 
+
+(Otros)",Argentina | Canal 8 Tucuman
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39852
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9 Rio Gallegos" tvg-
+
+logo="https://www.riogallegos.gov.ar/rgl/mirecibo/img/G.png" group-title="Argentina 
+
+(Otros)",Argentina | Canal 9 Rio Gallegos
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39705
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Argentinisima Satelital" tvg-
+
+logo="https://logostvargentina.files.wordpress.com/2008/11/cd893-arg-sat.png" group-
+
+title="Argentina (Otros)",Argentina | Argentinisima Satelital
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39502
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 2 Mar del Plata" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-2-Mar-de-Plata.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 2 Mar del Plata
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39449
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 79 Mar del Plata " tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-79-Mar-de-Plata.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 79 Mar del Plata 
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39448
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 Mar del Plata" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 10 Mar del Plata
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39447
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 5 Telesol San Juan" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Canal_5_Telesol_San_Juan.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 5 Telesol San Juan
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39262
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Acequia TV Mendoza" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Acequia-TV-en-vivo-Online.png" 
+
+group-title="Argentina (Otros)",Argentina | Acequia TV Mendoza
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4026
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Aire de Santa Fe" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/aire-de-santa-fe.png" group-
+
+title="Argentina (Otros)",Argentina | Aire de Santa Fe
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4305
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | America Sports" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-
+
+2019.svg/1280px-Logo_AM-sports-2019.svg.png" group-title="Argentina (Otros)",Argentina | 
+
+America Sports
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14054
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | BungeLibertador Pinamar Buenos Aires" tvg-
+
+logo="https://www.mercosur.com/media/filer_public_thumbnails/filer_public/7e/c3/7ec3cb4b-66ab-
+
+4044-b401-ccc38fd4db07/bunge.png__374x305_q85_subsampling-2_upscale.png" group-title="Argentina 
+
+(Otros)",Argentina | BungeLibertador Pinamar Buenos Aires
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4116
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 Entre Rios" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Entre-Rios.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 10 Entre Rios
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4164
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 Tele Diez Corrientes" tvg-
+
+logo="http://192.99.21.71/img/telediez.png" group-title="Argentina (Otros)",Argentina | Canal 
+
+10 Tele Diez Corrientes
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4159
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 10 TV Rio Negro" tvg-
+
+logo="https://logostvargentina.files.wordpress.com/2009/05/f704c-canal10tv_rionegrina.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 10 TV Rio Negro
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4338
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 13 Rio Cuarto HD" tvg-
+
+logo="https://i1.wp.com/www.ata.org.ar/wordpress/wp-
+
+content/uploads/logosMapa/Canal13deRioCuarto.png" group-title="Argentina (Otros)",Argentina | 
+
+Canal 13 Rio Cuarto HD
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4004
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 4 Jujuy" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy.png" group-
+
+title="Argentina (Otros)",Argentina | Canal 4 Jujuy
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12295
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 4 La Matanza" tvg-
+
+logo="https://i.imgur.com/JqIPc.png" group-title="Argentina (Otros)",Argentina | Canal 4 La 
+
+Matanza
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/3968
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 4 Posadas" tvg-
+
+logo="https://3.bp.blogspot.com/--
+
+LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO
+
+%2BCANAL_00005.png" group-title="Argentina (Otros)",Argentina | Canal 4 Posadas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4303
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 4 San Juan" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Channel_4_logo_%28San_Juan
+
+%2C_Argentina%29_.png" group-title="Argentina (Otros)",Argentina | Canal 4 San Juan
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4041
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 6 Digital Posadas" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/C6Digital.png/245px-
+
+C6Digital.png" group-title="Argentina (Otros)",Argentina | Canal 6 Digital Posadas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4031
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 8 San Juan" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_8_san_juan_logo_in_2018.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 8 San Juan
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/13345
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 8 Tunuyan" tvg-
+
+logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 8 Tunuyan
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4025
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" 
+
+group-title="Argentina (Otros)",Argentina | Canal 9
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6680
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9 Comodoro Rivadavia" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Canal_9_Comodoro_Rivadavia_
+
+%28Logo_1994%29.png" group-title="Argentina (Otros)",Argentina | Canal 9 Comodoro Rivadavia
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4011
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9 Salta" tvg-
+
+logo="https://logostvargentina.files.wordpress.com/2009/08/9762c-canal9salta.png" group-
+
+title="Argentina (Otros)",Argentina | Canal 9 Salta
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4038
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal 9 Santa Cruz" tvg-
+
+logo="https://logostvargentina.files.wordpress.com/2009/05/387d3-canal9-santacruz.png" group-
+
+title="Argentina (Otros)",Argentina | Canal 9 Santa Cruz
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4190
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal Coop Jesus Maria" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canalcoop.png" group-
+
+title="Argentina (Otros)",Argentina | Canal Coop Jesus Maria
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4007
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal Verte Olavarria" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal-local.png" group-
+
+title="Argentina (Otros)",Argentina | Canal Verte Olavarria
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4346
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Canal Provincial San Miguel" tvg-
+
+logo="https://i.imgur.com/TpRgjdj.png" group-title="Argentina (Otros)",Argentina | Canal 
+
+Provincial San Miguel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4332
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | CEEL Eldorado Misiones" tvg-
+
+logo="https://www.canal4eldorado.com/wp-content/uploads/2016/10/logoCEEL.png" group-
+
+title="Argentina (Otros)",Argentina | CEEL Eldorado Misiones
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4178
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Chaco TV" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ChacoTV.png" group-
+
+title="Argentina (Otros)",Argentina | Chaco TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4010
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Ciudad Magazine" tvg-
+
+logo="http://54.39.128.48/img/39.png" group-title="Argentina (Otros)",Argentina | Ciudad 
+
+Magazine
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/18799
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | El 10 Salta" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-
+
+title="Argentina (Otros)",Argentina | El 10 Salta
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4353
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | El 12 Cordoba" tvg-
+
+logo="http://54.39.128.48/img/30.png" group-title="Argentina (Otros)",Argentina | El 12 Cordoba
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/18773
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | El 12 Misiones" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Misiones-en-vivo-
+
+Online.png" group-title="Argentina (Otros)",Argentina | El 12 Misiones
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/14083
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Fenix 11 La Rioja TV" tvg-
+
+logo="https://www.pngitem.com/pimgs/m/495-4951912_fenix-logo-1-fenix-lighting-for-extremes-
+
+hd.png" group-title="Argentina (Otros)",Argentina | Fenix 11 La Rioja TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4173
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | LTV+ Santa Fe" tvg-logo="https://ltv.hn/wp-
+
+content/uploads/2020/02/logo-ltv-1.png" group-title="Argentina (Otros)",Argentina | LTV+ Santa 
+
+Fe
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4205
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Misiones Cuatro" tvg-
+
+logo="https://misionescuatro.com/wp-content/uploads/2019/07/m4logo.png" group-title="Argentina 
+
+(Otros)",Argentina | Misiones Cuatro
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4030
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | NET TV" tvg-logo="http://54.39.128.48/img/40.png" 
+
+group-title="Argentina (Otros)",Argentina | NET TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/18800
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | TDC Online" tvg-
+
+logo="https://i.imgur.com/9CR5FLb.png" group-title="Argentina (Otros)",Argentina | TDC Online
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4304
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Telefe Santa Fe" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-
+
+title="Argentina (Otros)",Argentina | Telefe Santa Fe
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/18797
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Telemax" tvg-logo="http://54.39.128.48/img/36.png" 
+
+group-title="Argentina (Otros)",Argentina | Telemax
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6788
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | Television Rionegrina" tvg-
+
+logo="https://appnew.megainfoapp.com/files/1/Canal-10-Rio-Negro.png" group-title="Argentina 
+
+(Otros)",Argentina | Television Rionegrina
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12393
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | TUM Television Universitaria de Misiones" tvg-
+
+logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/promo-tum-wide-c52b16b3.png" 
+
+group-title="Argentina (Otros)",Argentina | TUM Television Universitaria de Misiones
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4267
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | XFN Canal 41 Mar del Plata" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/XFN.png" group-title="Argentina 
+
+(Otros)",Argentina | XFN Canal 41 Mar del Plata
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/4368
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | RT" tvg-logo="" group-
+
+title="Internacionales",Internacionales | RT
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39640
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Telemundo" tvg-logo="" group-
+
+title="Internacionales",Internacionales | Telemundo
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39628
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | TVC" tvg-logo="" group-
+
+title="Internacionales",Internacionales | TVC
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39627
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | ADN 40" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2018/02/adn40.png" group-
+
+title="Internacionales",Internacionales | ADN 40
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6613
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Aljazeera" tvg-logo="https://pluspng.com/img-
+
+png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Internacionales",Internacionales | 
+
+Aljazeera
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15932
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Antena 3" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_201
+
+7.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-
+
+title="Internacionales",Internacionales | Antena 3
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15948
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | AZ Corazon" tvg-
+
+logo="https://www.pngkit.com/png/full/298-2981889_49-novelas-az-clic.png" group-
+
+title="Internacionales",Internacionales | AZ Corazon
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15999
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Azteca 7" tvg-logo="https://destel.mx/wp-
+
+content/uploads/2016/04/418.png" group-title="Internacionales",Internacionales | Azteca 7
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/13349
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Azteca Uno" tvg-
+
+logo="https://i.imgur.com/Yz6kgjQ.png" group-title="Internacionales",Internacionales | Azteca 
+
+Uno
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6602
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Bloomberg" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-
+
+New_Bloomberg_Logo.svg.png" group-title="Internacionales",Internacionales | Bloomberg
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15961
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Canal Claro" tvg-
+
+logo="https://logodownload.org/wp-content/uploads/2014/02/claro-logo-8.png" group-
+
+title="Internacionales",Internacionales | Canal Claro
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15926
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Canal Once" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Antiguo_logo_de_Canal_Once_
+
+%28Once_TV%29.png" group-title="Internacionales",Internacionales | Canal Once
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12112
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | DW America" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/
+
+1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",Internacionales | DW 
+
+America
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15973
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | DW Channel" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-
+
+title="Internacionales",Internacionales | DW Channel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/16002
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | France 24" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-
+
+title="Internacionales",Internacionales | France 24
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15970
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Garage TV" tvg-
+
+logo="https://logostvargentina.files.wordpress.com/2008/11/f6fbd-elgarage-2013.png" group-
+
+title="Internacionales",Internacionales | Garage TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12449
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Glitz" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-
+
+Logo_Glitz.svg.png" group-title="Internacionales",Internacionales | Glitz
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/15968
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Hola TV" tvg-
+
+logo="https://image.ibb.co/cxxBZz/holatv.png" group-title="Internacionales",Internacionales | 
+
+Hola TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12686
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Imagen TV" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" 
+
+group-title="Internacionales",Internacionales | Imagen TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6862
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Ingenio TV" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Ingenio-TV-en-vivo-Online.png" 
+
+group-title="Internacionales",Internacionales | Ingenio TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6866
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Milenio TV" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-
+
+title="Internacionales",Internacionales | Milenio TV
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6611
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | RT en Espanol" tvg-
+
+logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-
+
+title="Internacionales",Internacionales | RT en Espanol
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/6746
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Telenovelas" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_de_Telenovela.png" group-
+
+title="Internacionales",Internacionales | Telenovelas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12694
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Ticavision" tvg-
+
+logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png" group-
+
+title="Internacionales",Internacionales | Ticavision
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/12258
+#EXTINF:-1 tvg-id="" tvg-name="Internacionales | Unicable" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-
+
+Unicable_logo.svg.png" group-title="Internacionales",Internacionales | Unicable
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/16010
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Trios" tvg-logo="" group-title="Adultos",Adultos | 
+
+Trios
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39693
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Tory Black" tvg-logo="" group-title="Adultos",Adultos 
+
+| Tory Black
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39692
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Stormy Daniels" tvg-logo="" group-
+
+title="Adultos",Adultos | Stormy Daniels
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39691
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Squirt" tvg-logo="" group-title="Adultos",Adultos | 
+
+Squirt
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39690
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Shemale" tvg-logo="" group-title="Adultos",Adultos | 
+
+Shemale
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39689
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Sasha Grey" tvg-logo="" group-title="Adultos",Adultos 
+
+| Sasha Grey
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39688
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Sara Jay" tvg-logo="" group-title="Adultos",Adultos | 
+
+Sara Jay
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39687
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Rusas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Rusas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39686
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Rubias" tvg-logo="" group-title="Adultos",Adultos | 
+
+Rubias
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39685
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Publico" tvg-logo="" group-title="Adultos",Adultos | 
+
+Publico
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39684
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Phoenix Marie" tvg-logo="" group-
+
+title="Adultos",Adultos | Phoenix Marie
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39683
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Pelirrojas" tvg-logo="" group-title="Adultos",Adultos 
+
+| Pelirrojas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39682
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Parodias" tvg-logo="" group-title="Adultos",Adultos | 
+
+Parodias
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39681
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Pajas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Pajas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39680
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Naomi Russel" tvg-logo="" group-
+
+title="Adultos",Adultos | Naomi Russel
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39679
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Milf" tvg-logo="" group-title="Adultos",Adultos | Milf
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39678
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Masturbacion" tvg-logo="" group-
+
+title="Adultos",Adultos | Masturbacion
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39677
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Masajes" tvg-logo="" group-title="Adultos",Adultos | 
+
+Masajes
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39676
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Madison Ivy" tvg-logo="" group-title="Adultos",Adultos 
+
+| Madison Ivy
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39675
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Lisa Ann" tvg-logo="" group-title="Adultos",Adultos | 
+
+Lisa Ann
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39674
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Lesbianas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Lesbianas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39673
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Latinas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Latinas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39672
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Kimmy Granger" tvg-logo="" group-
+
+title="Adultos",Adultos | Kimmy Granger
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39671
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Kendralust" tvg-logo="" group-title="Adultos",Adultos 
+
+| Kendralust
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39670
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Jovencitas" tvg-logo="" group-title="Adultos",Adultos 
+
+| Jovencitas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39669
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Interracial" tvg-logo="" group-title="Adultos",Adultos 
+
+| Interracial
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39668
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | GYM" tvg-logo="" group-title="Adultos",Adultos | GYM
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39667
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Gay" tvg-logo="" group-title="Adultos",Adultos | Gay
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39666
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Gangbang" tvg-logo="" group-title="Adultos",Adultos | 
+
+Gangbang
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39665
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Fiestas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Fiestas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39664
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Penetracion" tvg-logo="" group-title="Adultos",Adultos 
+
+| Penetracion
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39663
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Dillion Harper" tvg-logo="" group-
+
+title="Adultos",Adultos | Dillion Harper
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39662
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Creampie" tvg-logo="" group-title="Adultos",Adultos | 
+
+Creampie
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39661
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Cosplay" tvg-logo="" group-title="Adultos",Adultos | 
+
+Cosplay
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39660
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Corridas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Corridas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39659
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Colegialas" tvg-logo="" group-title="Adultos",Adultos 
+
+| Colegialas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39658
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Checas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Checas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39657
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | BrandiLove" tvg-logo="" group-title="Adultos",Adultos 
+
+| BrandiLove
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39656
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Bondage" tvg-logo="" group-title="Adultos",Adultos | 
+
+Bondage
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39655
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Blowjob" tvg-logo="" group-title="Adultos",Adultos | 
+
+Blowjob
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39654
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Bisexual" tvg-logo="" group-title="Adultos",Adultos | 
+
+Bisexual
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39653
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Big Tits" tvg-logo="" group-title="Adultos",Adultos | 
+
+Big Tits
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39652
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | BBW" tvg-logo="" group-title="Adultos",Adultos | BBW
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39651
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Babes" tvg-logo="" group-title="Adultos",Adultos | 
+
+Babes
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39650
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Audiciones" tvg-logo="" group-title="Adultos",Adultos 
+
+| Audiciones
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39649
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Asiaticas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Asiaticas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39648
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Asa Akira" tvg-logo="" group-title="Adultos",Adultos | 
+
+Asa Akira
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39647
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Arabe" tvg-logo="" group-title="Adultos",Adultos | 
+
+Arabe
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39646
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Anal" tvg-logo="" group-title="Adultos",Adultos | Anal
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39645
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Amateur" tvg-logo="" group-title="Adultos",Adultos | 
+
+Amateur
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39644
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Alexis Texas" tvg-logo="" group-
+
+title="Adultos",Adultos | Alexis Texas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39643
+#EXTINF:-1 tvg-id="" tvg-name="Adultos | Alemanas" tvg-logo="" group-title="Adultos",Adultos | 
+
+Alemanas
+http://54.39.51.30:25461/5492645029877v2/3xxLhsTF5j/39642
